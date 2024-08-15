@@ -250,6 +250,7 @@ namespace Proyecto_3er_Parcial_Mario_Juan
             MostrarMatriz(resultado);
 
             return resultado;
+            Console.ReadKey();
         }
     }
 }
